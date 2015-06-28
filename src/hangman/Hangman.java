@@ -1,6 +1,7 @@
 //M Faisal Sheikhani
 //My first upload to GitHub
 //Instructor: Mike Shipley
+//6/27/2015
 package hangman;
 
 import java.util.Arrays;
